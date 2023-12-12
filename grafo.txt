@@ -1,0 +1,90 @@
+Relatorio do Grafo Grafo teste
+    Arquivo: ./src/Entrada/grafo.txt
+    Vertices: 7
+    Arestas: 16
+    Grafo Não Orientado 
+    Grafo Simples 
+    Grafo Incompleto 
+    Grafo Desconexo 
+    É pseudo grafo 
+    Grafo não bipartido 
+    Grafo não multigrafo 
+    Grafo possui ciclo 
+
+
+Matrizes do grafo: 
+Dados da Matriz de Entrada
+    1    2    1
+    1    3    1
+    1    4    1
+    1    5    1
+    1    6    1
+    2    3    1
+    2    4    1
+    2    5    1
+    2    6    1
+    3    4    1
+    3    5    1
+    3    6    1
+    4    5    1
+    4    6    1
+    5    6    1
+    0    0    0
+
+Dados da Matriz de Adjacencia
+    1    0    0    0    0    0    0
+    0    0    1    1    1    1    1
+    0    1    0    1    1    1    1
+    0    1    1    0    1    1    1
+    0    1    1    1    0    1    1
+    0    1    1    1    1    0    1
+    0    1    1    1    1    1    0
+
+Dados da Matriz de Incidencia
+    0    1    1    0    0    0    0
+    0    1    0    1    0    0    0
+    0    1    0    0    1    0    0
+    0    1    0    0    0    1    0
+    0    1    0    0    0    0    1
+    0    0    1    1    0    0    0
+    0    0    1    0    1    0    0
+    0    0    1    0    0    1    0
+    0    0    1    0    0    0    1
+    0    0    0    1    1    0    0
+    0    0    0    1    0    1    0
+    0    0    0    1    0    0    1
+    0    0    0    0    1    1    0
+    0    0    0    0    1    0    1
+    0    0    0    0    0    1    1
+    1    0    0    0    0    0    0
+
+Dados da Matriz de Fecho Transitivo
+    1    0    0    0    0    0    0
+    0    1    1    1    1    1    1
+    0    1    1    1    1    1    1
+    0    1    1    1    1    1    1
+    0    1    1    1    1    1    1
+    0    1    1    1    1    1    1
+    0    1    1    1    1    1    1
+
+Dados da Matriz de Distancias
+    0    0    0    0    0    0    0
+    0    0    1    1    1    1    1
+    0    1    0    1    1    1    1
+    0    1    1    0    1    1    1
+    0    1    1    1    0    1    1
+    0    1    1    1    1    0    1
+    0    1    1    1    1    1    0
+
+Dados da Matriz de Pesos
+    2    0    0    0    0    0    0
+    0    2    2    2    2    2    2
+    0    2    2    2    2    2    2
+    0    2    2    2    2    2    2
+    0    2    2    2    2    2    2
+    0    2    2    2    2    2    2
+    0    2    2    2    2    2    2
+
+
+
+
